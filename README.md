@@ -13,7 +13,7 @@ Raspberry Pi 4: Acts as the central processing unit, managing data acquisition, 
 
 Hardware:
 
-Raspberry Pi 4
-Camera Module
-DHT22 Humidity Sensor
+Raspberry Pi 4,
+Camera Module,
+DHT22 Humidity Sensor,
 WiFi Connectivity
